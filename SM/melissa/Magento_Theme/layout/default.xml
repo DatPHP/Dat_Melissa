@@ -17,7 +17,7 @@
 <!--        <referenceContainer name="header.panel.wrapper" remove="true"/>-->
         <move element="footer_links" destination="footer" before="form.subscribe"/>
 
-        <move element="navigation.sections" destination="header-wrapper" />
+
 
 
 
